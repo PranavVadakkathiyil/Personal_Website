@@ -310,7 +310,7 @@ body{
  }
  .sci li{
     list-style: none;
-    margin-right: 5px;
+    margin-right: 0;
 
  }
     .card text-center {
