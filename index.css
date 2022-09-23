@@ -285,7 +285,17 @@ body{
         padding: 0;
         min-height:300px;
 
+     .sci
+ {
+    margin-top: 20px;
+    display: flex;
 
+ }
+ .sci li{
+    list-style: none;
+    margin-right: 15px;
+
+ }
     }
     .card text-center {
         padding-top: 20px;
