@@ -238,21 +238,13 @@ body{
         overflow-x: hidden;
         
     }
-    .container1 .contactus{
-        max-width: 100%;
-        overflow-x: hidden;
-
-    }
-    .Experience .container{
-        max-width: 100%;
-        overflow-x: hidden;
-    }
+    
     .container1{
         background:#C5C5C5;
     }
     
     .contactus{
-        padding: 20px;
+        padding: 0px;
 
     }
     .box{
