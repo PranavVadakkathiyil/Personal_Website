@@ -223,6 +223,9 @@ body{
     overflow-x: hidden;
     
     }
+     .Experience .row{
+        align-items: center;
+    }
     .navigator{
         max-width: 100%;
         overflow-x: hidden;
