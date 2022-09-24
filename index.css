@@ -184,13 +184,13 @@ body{
 }
 .sci
 {
-    margin-top: 40px;
+    margin-top: 20px;
     display: flex;
 
 }
 .sci li{
     list-style: none;
-    margin-right: 35px;
+    margin-right: 12px;
 
 }
 .sci li a{
